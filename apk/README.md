@@ -1,0 +1,1 @@
+This folder is a place or APKs to be temporarily stored while they are being installed on tablets.  There's a potential disk usage issue here if too many large APKs are being installed at once but the CouchFusion project could help remedy this.
