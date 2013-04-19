@@ -17,6 +17,5 @@ To get this working correctly on my Raspberry Pi I had to add `www-data ALL=(ALL
 
 # Examples
 
-http://raspberrypi.local/AdbHttpServer/index.php?q=install&params=http://raspberrypi.local:5984/apk/68da1bf0f1a3829d1afaafacbd001821/com.ka-lite-browser.apk
-
+http://raspberrypi.local/AdbHttpServer/index.php?op=install&apk=http://raspberrypi.local:5984/apk/68da1bf0f1a3829d1afaafacbd001821/com.ka-lite-browser.apk
 
